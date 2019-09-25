@@ -1,0 +1,18 @@
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\projects\TinyParser\code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\projects\TinyParser\code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\projects\TinyParser\code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\projects\TinyParser\code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

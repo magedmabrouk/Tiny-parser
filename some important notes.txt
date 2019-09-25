@@ -1,0 +1,11 @@
+*****************
+*IMPORTANT NOTES*
+*****************
+- the tree grows from left to right, so if code begins with many left children, they maynot appear in the tree, but they were considerd in the applictaion code.
+- to have a better resultls open the application in full screen.
+- if some parts of the tree has gone beyond the borders of your screen the will desapear, but you can always show the same tree again by pressing "show syntax tree".
+- you can always press "show syntax tree" to show a different tree for a different code without the need to restart the application. 
+- you must separate between tokens with space  EX: "x = 3 + 2;" is right but "x=3+2;"is wrong, but it doesnot matter if you separate the semicolon or not.
+- negative numbers are not allowed.
+- there is no error handeling, so if there is any kind of error the application will crash.
+- some nodes of the tree might interfere.

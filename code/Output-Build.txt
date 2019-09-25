@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: WindowsFormsApplication1, Configuration: Debug Any CPU ------
+1>C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Form1.cs(21,14,21,19): warning CS0414: The field 'WindowsFormsApplication1.Form1.error' is assigned but its value is never used
+1>  WindowsFormsApplication1 -> C:\Users\maged\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
